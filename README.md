@@ -1,1 +1,1 @@
-# echarts
+[link](./note.md)
